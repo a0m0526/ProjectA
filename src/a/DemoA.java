@@ -5,6 +5,10 @@ public class DemoA {
 		System.out.println("Demo A");
 		
 		System.out.println();
+		
+		
 	}
-
+public static void add(int a, int b) {
+			System.out.println(a+b);
+		}
 }
